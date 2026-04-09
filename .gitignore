@@ -6,8 +6,9 @@ merged_dataset
 project-6-at-2026-02-25-17-06-87cd7413
 project-6-at-2026-02-25-17-06-87cd7413.zip
 final_data_folder_pieces
-code\captured_images
+code/captured_images
 code/runs
+code/Unlabeled_images
 yolo26s.pt
 Yolo_models
 final_data_folder
@@ -17,3 +18,5 @@ yolo11s.pt
 project-8-at-2026-03-05-17-56-cd45df59.zip
 project-8-at-2026-03-05-17-56-cd45df59/
 code/calibration_images
+code/Training/runs
+code/Training/yolo26n.pt
