@@ -29,7 +29,7 @@ An end-to-end computer vision pipeline that converts a photograph of a physical 
 
 **4. Piece detection & FEN** — A second YOLO model detects and classifies all pieces. The BEV is split into an 8×8 grid; each piece is assigned to its nearest square and the board state is serialized to FEN.
 
-![Piece detection and grid assignment](docs/Pieces_detected.PNG)
+![Piece detection and grid assignment](docs/Pieces_detected.png)
 
 ## Dataset
 
