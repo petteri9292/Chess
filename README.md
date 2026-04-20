@@ -9,7 +9,7 @@ An end-to-end computer vision pipeline that converts a photograph of a physical 
 <p align="center">
   <img src="docs/example_input.jpg" alt="Input photograph" width="45%" />
   &nbsp;
-  <img src="docs/example_fen.png" alt="Resulting FEN" width="45%" />
+  <img src="docs/example_FEN.png" alt="Resulting FEN" width="45%" />
 </p>
 
 ## Pipeline
