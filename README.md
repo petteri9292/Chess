@@ -47,3 +47,4 @@ Python · [Ultralytics YOLO](https://github.com/ultralytics/ultralytics) · Open
 
 - Including an open-source model to suggest moves based on the FEN. This would allow for playing/practicing against a computer over the board.
 
+- Has trouble discerning bishops and pawns when viewed top down
